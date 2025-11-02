@@ -25,7 +25,7 @@ This meme generator allows users to create custom memes by fetching random meme 
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/meme-generator-react.git
+git clone https://github.com/dbrooks11/meme-generator-react.git
 ```
 
 2. Navigate to the project directory
